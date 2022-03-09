@@ -3,5 +3,5 @@ module vcs.portals.entities.badges;
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.badges.badge;
-public import vcs.portals.entities.badges.type;
+mixin(EnityActions!("PTLBadge", "/portals/badges", "portal_badges", "PTL"));
+mixin(EnityActions!("PTLBadgeType", "/portals/badgetypes", "portal_badgetypes", "PTL"));

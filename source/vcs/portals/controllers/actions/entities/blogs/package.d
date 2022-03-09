@@ -3,6 +3,6 @@ module vcs.portals.entities.blogs;
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.blogs.blog;
+mixin(EnityActions!("PTLBlog", "/portals/blogs", "portal_blogs", "PTL"));
+mixin(EnityActions!("PTLBlogPost", "/portals/blogposts", "portal_blogposts", "PTL"));
 
-public import vcs.portals.entities.blogs.post;

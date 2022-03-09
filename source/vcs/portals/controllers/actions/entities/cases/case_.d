@@ -3,7 +3,8 @@ module vcs.portals.entities.cases.case_;
 @safe:
 import vcs.portals;
 
-// Service request case associated with a contract.
+mixin(EnityActions!("PTLBlogPost", "/portals/blogposts", "portal_blogposts", "PTL"));
+
 class DPTLCase : DOOPEntity {
   mixin(OOPEntityThis!("PTLCase"));
 
