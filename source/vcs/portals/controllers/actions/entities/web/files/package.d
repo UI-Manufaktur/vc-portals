@@ -1,4 +1,4 @@
-module vcs.portals.entities.web.files;
+module vcs.portals.controllers.actions.entities.web.files;
 
 @safe:
 import vcs.portals;

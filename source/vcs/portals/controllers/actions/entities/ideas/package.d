@@ -1,4 +1,4 @@
-module vcs.portals.entities.ideas;
+module vcs.portals.controllers.actions.entities.ideas;
 
 @safe:
 import vcs.portals;

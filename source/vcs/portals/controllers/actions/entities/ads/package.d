@@ -1,4 +1,4 @@
-module vcs.portals.entities.ads;
+module vcs.portals.controllers.actions.entities.ads;
 
 @safe:
 import vcs.portals;
