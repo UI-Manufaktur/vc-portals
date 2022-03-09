@@ -3,6 +3,5 @@ module vcs.portals.entities.cases;
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.cases.case_;
-
-public import vcs.portals.entities.cases.deflection;
+mixin(EnityActions!("PTLCase", "/portals/cases", "portal_cases", "PTL"));
+mixin(EnityActions!("PTLCaseDeflection", "/portals/casedeflections", "portal_casedeflections", "PTL"));

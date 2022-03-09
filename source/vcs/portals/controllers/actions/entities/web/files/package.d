@@ -3,7 +3,7 @@ module vcs.portals.entities.web.files;
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.web.files.file;
+mixin(EnityActions!("PTLWebFile", "/portals/webfiles", "portal_webfiles", "PTL"));
+mixin(EnityActions!("PTLWebFileLog", "/portals/webfilelogs", "portal_webfilelogs", "PTL"));
 
-public import vcs.portals.entities.web.files.log;
 

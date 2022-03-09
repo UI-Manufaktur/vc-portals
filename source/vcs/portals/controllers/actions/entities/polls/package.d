@@ -3,8 +3,8 @@ module vcs.portals.entities.polls;
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.polls.poll;
+mixin(EnityActions!("PTLPoll", "/portals/polls", "portal_polls", "PTL"));
+mixin(EnityActions!("PTLPollOption", "/portals/polloptions", "portal_polloptions", "PTL"));
+mixin(EnityActions!("PTLPollPlacement", "/portals/pollplacements", "portal_pollplacements", "PTL"));
+mixin(EnityActions!("PTLPollSubmission", "/portals/pollsubmissions", "portal_pollsubmissions", "PTL"));
 
-public import vcs.portals.entities.polls.option;
-public import vcs.portals.entities.polls.placement;
-public import vcs.portals.entities.polls.submission;
