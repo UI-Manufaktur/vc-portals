@@ -1,4 +1,4 @@
-module vcs.portals.entities.forums.thread;
+module vcs.portals.views.entities.forums.thread;
 
 @safe:
 import vcs.portals;

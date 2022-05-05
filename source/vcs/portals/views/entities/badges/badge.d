@@ -1,4 +1,4 @@
-module vcs.portals.entities.badges.badge;
+module vcs.portals.views.entities.badges.badge;
 
 @safe:
 import vcs.portals;

@@ -1,4 +1,4 @@
-module vcs.portals.entities.external_identity;
+module vcs.portals.views.entities.external_identity;
 
 @safe:
 import vcs.portals;

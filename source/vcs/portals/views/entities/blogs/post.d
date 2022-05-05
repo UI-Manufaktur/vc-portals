@@ -1,4 +1,4 @@
-module vcs.portals.entities.blogs.post;
+module vcs.portals.views.entities.blogs.post;
 
 @safe:
 import vcs.portals;

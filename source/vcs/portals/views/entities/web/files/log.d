@@ -1,4 +1,4 @@
-module vcs.portals.entities.web.files.log;
+module vcs.portals.views.entities.web.files.log;
 
 @safe:
 import vcs.portals;

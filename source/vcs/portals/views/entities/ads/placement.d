@@ -1,4 +1,4 @@
-module vcs.portals.entities.ads.placement;
+module vcs.portals.views.entities.ads.placement;
 
 @safe:
 import vcs.portals;

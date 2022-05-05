@@ -1,4 +1,4 @@
-module vcs.portals.entities.web.role;
+module vcs.portals.views.entities.web.role;
 
 @safe:
 import vcs.portals;

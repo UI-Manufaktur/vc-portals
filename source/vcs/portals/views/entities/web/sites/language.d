@@ -1,4 +1,4 @@
-module vcs.portals.entities.web.sites.language;
+module vcs.portals.views.entities.web.sites.language;
 
 @safe:
 import vcs.portals;

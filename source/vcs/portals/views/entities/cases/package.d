@@ -1,8 +1,8 @@
-module vcs.portals.entities.cases;
+module vcs.portals.views.entities.cases;
 
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.cases.case_;
+public import vcs.portals.views.entities.cases.case_;
 
-public import vcs.portals.entities.cases.deflection;
+public import vcs.portals.views.entities.cases.deflection;

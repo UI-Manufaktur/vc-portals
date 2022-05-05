@@ -1,11 +1,11 @@
-module vcs.portals.entities.web;
+module vcs.portals.views.entities.web;
 
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.web.files;
-public import vcs.portals.entities.web.pages;
-public import vcs.portals.entities.web.sites;
+public import vcs.portals.views.entities.web.files;
+public import vcs.portals.views.entities.web.pages;
+public import vcs.portals.views.entities.web.sites;
 
-public import vcs.portals.entities.web.role;
-public import vcs.portals.entities.web.template_;
+public import vcs.portals.views.entities.web.role;
+public import vcs.portals.views.entities.web.template_;

@@ -1,8 +1,8 @@
-module vcs.portals.entities.web.sites;
+module vcs.portals.views.entities.web.sites;
 
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.web.sites.site;
+public import vcs.portals.views.entities.web.sites.site;
 
-public import vcs.portals.entities.web.sites.language;
+public import vcs.portals.views.entities.web.sites.language;

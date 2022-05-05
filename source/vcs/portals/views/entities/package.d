@@ -1,15 +1,15 @@
-module vcs.portals.entities;
+module vcs.portals.views.entities;
 
 @safe:
 import vcs.portals;
 
-public import vcs.portals.entities.ads;
-public import vcs.portals.entities.badges;
-public import vcs.portals.entities.blogs;
-public import vcs.portals.entities.cases;
-public import vcs.portals.entities.forums;
-public import vcs.portals.entities.ideas;
-public import vcs.portals.entities.polls;
-public import vcs.portals.entities.web;
+public import vcs.portals.views.entities.ads;
+public import vcs.portals.views.entities.badges;
+public import vcs.portals.views.entities.blogs;
+public import vcs.portals.views.entities.cases;
+public import vcs.portals.views.entities.forums;
+public import vcs.portals.views.entities.ideas;
+public import vcs.portals.views.entities.polls;
+public import vcs.portals.views.entities.web;
 
-public import vcs.portals.entities.external_identity;
+public import vcs.portals.views.entities.external_identity;

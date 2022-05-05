@@ -1,4 +1,4 @@
-module vcs.portals.entities.cases.case_;
+module vcs.portals.views.entities.cases.case_;
 
 @safe:
 import vcs.portals;

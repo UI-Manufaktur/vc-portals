@@ -1,4 +1,4 @@
-module vcs.portals.entities.polls.placement;
+module vcs.portals.views.entities.polls.placement;
 
 @safe:
 import vcs.portals;

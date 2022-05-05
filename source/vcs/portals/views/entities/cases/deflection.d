@@ -1,4 +1,4 @@
-module vcs.portals.entities.cases.deflection;
+module vcs.portals.views.entities.cases.deflection;
 
 @safe:
 import vcs.portals;
